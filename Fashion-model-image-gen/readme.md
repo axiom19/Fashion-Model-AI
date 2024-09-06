@@ -20,8 +20,8 @@ The notebook follows these main steps:
 
 ## Demo
 
-![Demo Screenshot](Fashion-model-image-gen/demo_img.png)
-![Demo Video](Fashion-model-image-gen/demo_vid.png)
+![Demo Screenshot](https://github.com/axiom19/Fashion-Model-AI/blob/main/Fashion-model-image-gen/demo_img.png)
+![Demo Video]((https://github.com/axiom19/Fashion-Model-AI/blob/main/Fashion-model-image-gen/demo_vid.png))
 
 
 ## Requirements
