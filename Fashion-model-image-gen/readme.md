@@ -18,9 +18,11 @@ The notebook follows these main steps:
 4. **Image Generation**: Generates photorealistic images of fashion models based on user-provided text prompts, such as descriptions of clothing, style, and appearance.
 5. **Visualization**: Displays the generated images for review, adjustment, or further creative exploration.
 
-_Screenshot of the notebook (optional):_
+## Demo
 
-![Notebook Preview](path-to-screenshot.png)
+![Demo Screenshot](Fashion-model-image-gen/demo_img.png)
+![Demo Video](Fashion-model-image-gen/demo_vid.png)
+
 
 ## Requirements
 
